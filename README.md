@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyam Borade</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsb1&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsb1" /> </p>
+
 - 🔭 I’m currently Studying at **Sandip Institute Of Technology and Research Centre**
 
 - 🌱 I’m currently learning **Databases and react.js**
