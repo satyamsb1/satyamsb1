@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Satyam Borade</h1>
-<h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsb1&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsb1" /> </p>
+# Hey, I'm Satyam 👋
 
-- 🔭 I’m currently Studying at **Sandip Institute Of Technology and Research Centre**
+I'm a software engineer and M.S. Computer Science graduate from **Illinois Institute of Technology**. I enjoy building thoughtful full-stack products, reliable backend systems, and practical AI applications that solve everyday problems.
 
-- 🌱 I’m currently learning **Databases and react.js**
+I care about clean code, performance, and the details that make software genuinely useful.
 
-- 💬 Ask me about **C++, Javascript, HTML, CSS, Jquery, Node.js, Express.js, APIs, ejs etc.**
+### 🛠️ Tech stack
 
-- 📫 How to reach me **satyamborade45@gmail.com**
+| Area | Tools & technologies |
+| --- | --- |
+| **Languages** | JavaScript, TypeScript, Python, C++, Java, SQL |
+| **Frontend** | React, Next.js, Angular, Redux, Tailwind CSS, HTML, CSS |
+| **Backend** | Node.js, Express, REST APIs, authentication, webhooks |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Supabase |
+| **Cloud & tooling** | AWS, Docker, Git, CI/CD, Jest, Postman |
+| **AI development** | Claude API, LLM integration, prompt engineering, structured outputs, Claude Code |
 
+### 🚀 Projects
 
+**🤖 MeetNotes — AI meeting assistant**  
+A full-stack app that turns meeting transcripts into structured summaries, decisions, and action items. Built with **React, TypeScript, Node.js, PostgreSQL, Supabase, and the Claude API**, with a focus on validated outputs and reliable error handling.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**📬 InboxHired — Job application organizer**  
+A personal AI-assisted workflow for organizing application emails, identifying hiring stages, and tracking assessments and follow-ups. Built to make a repetitive process easier to manage.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">  </a> </p>
+**👁️ Face Recognition Attendance System**  
+A computer vision project using **Python, OpenCV (Haar cascades and LBPH), and PostgreSQL** to recognize faces and record attendance.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamsb1&show_icons=true&locale=en&layout=compact" alt="satyamsb1" /></p>
+### 🌱 What I'm working on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamsb1&show_icons=true&locale=en" alt="satyamsb1" /></p>
+- **AI-powered software:** Going deeper into LLM APIs, retrieval-augmented generation (RAG), agent workflows, and production reliability.
+- **System design:** Practicing caching, queues, idempotency, distributed systems, and failure handling.
+- **JavaScript & problem solving:** Sharpening language fundamentals and practicing data structures and algorithms in C++.
+- **Developer workflows:** Using AI coding assistants to prototype and debug faster while reviewing, testing, and understanding the code I ship.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsb1&" alt="satyamsb1" /></p>
+### 🤝 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/satyam-borade-049685203/) · [Email](mailto:satyamborade892@gmail.com)
+
+> I like turning complex ideas into simple, dependable software.
